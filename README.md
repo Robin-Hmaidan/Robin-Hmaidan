@@ -1,6 +1,6 @@
 ## Hi, I'm Robin Hmaidan
 
-Full-stack developer (Next.js, TypeScript, PostgreSQL) with a focus on web security. I build and ship production software for paying clients, owning the whole path from database design and APIs to UI, payments, testing, deployment and monitoring.
+Full-stack developer (Next.js, TypeScript, PostgreSQL) with a focus on web security. I build production SaaS end to end, from Postgres schema, auth and APIs to UI, payments, testing, deployment and monitoring, with security designed in from day one.
 
 - Lead developer of **[esthéJob](https://esthejob.fr)**, a live French B2B marketplace for the beauty and hairdressing industry
 - Security & integration lead on its companion booking SaaS, **[esthéJob Cowork](https://cowork.esthejob.fr)**
