@@ -1,5 +1,7 @@
 ## Hi, I'm Robin Hmaidan
 
+**Portfolio: [robin-hmaidan.vercel.app](https://robin-hmaidan.vercel.app)**
+
 Full-stack developer (Next.js, TypeScript, PostgreSQL) with a focus on web security. I build production SaaS end to end, from Postgres schema, auth and APIs to UI, payments, testing, deployment and monitoring, with security designed in from day one.
 
 - Lead developer of **[esthéJob](https://esthejob.fr)**, a live French B2B marketplace for the beauty and hairdressing industry
@@ -29,4 +31,4 @@ The esthéJob repositories are case studies: the client code is private, so they
 
 ### Contact
 
-robinhmiadan01@gmail.com · [LinkedIn](https://linkedin.com/in/robin-hmaidan-09a9a0230)
+[Portfolio](https://robin-hmaidan.vercel.app) · robinhmiadan01@gmail.com · [LinkedIn](https://linkedin.com/in/robin-hmaidan-09a9a0230)
